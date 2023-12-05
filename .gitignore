@@ -1,0 +1,10 @@
+node_modules
+dist
+/dist
+.env
+/node_modules
+.git
+sendMail.ts
+/src/app/modules/sendMail.ts
+sendMail.js
+/dist/app/modules/sendMail.js
