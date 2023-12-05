@@ -1,9 +1,6 @@
 node_modules
-dist
-/dist
 .env
 /node_modules
-.git
 sendMail.ts
 /src/app/modules/sendMail.ts
 sendMail.js
